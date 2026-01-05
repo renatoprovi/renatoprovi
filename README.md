@@ -5,7 +5,7 @@ Data Engineer at [Principia](https://principia.net/) and Professor of Software E
 
 ### `About me`
 
-Data Engineer & Scientist leveraging Open Source and Software Engineering for Design and AEC.
+Data Engineer & Scientist leveraging Open Source and Software Engineering for Data, Design and AEC.
 
 ### `Free code` 💚
 
