@@ -1,6 +1,6 @@
 ## `Hello, I'm Renato!` 👋
 
-Data Engineer at [Principia](https://principia.net/) and Professor of Software Engineering and Data Science at [MBA USP/Esalq](https://www.esalq.usp.br/).
+Data Engineer at [Principia](https://principia.net/) and Tutor & Advisor - Machine Learning, Statistics & Software Engineering (MBA USP/Esalq) at [MBA USP/Esalq](https://www.esalq.usp.br/).
 
 
 ### `About me`
